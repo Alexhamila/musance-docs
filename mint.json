@@ -7,19 +7,19 @@
   },
   "favicon": "/favicon.png",
   "colors": {
-    "primary": "#0069ED",
-    "light": "#4D9CFF",
-    "dark": "#0050B4"
+    "primary": "#db511b",
+    "light": "#db511b",
+    "dark": "#db511b"
   },
   "topbarLinks": [
     {
-      "name": "Documentation",
-      "url": "https://mintlify.com/docs"
+      "name": "Access App",
+      "url": "https://musance.com"
     }
   ],
   "topbarCtaButton": {
-    "name": "Get Started",
-    "url": "https://github.com/mintlify/starter"
+    "name": "Join Musance",
+    "url": "https://musance.com/join"
   },
   "anchors": [
     {
@@ -30,12 +30,7 @@
     {
       "name": "Changelog",
       "icon": "list",
-      "url": "https://mintlify.com"
-    },
-    {
-      "name": "Community",
-      "icon": "discord",
-      "url": "https://mintlify.com/community"
+      "url": "https://musance.com"
     }
   ],
   "navigation": [
@@ -58,8 +53,7 @@
     }
   ],
   "footerSocials": {
-    "twitter": "https://twitter.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "twitter": "https://twitter.com/alexandrehmla",
+    "linkedin": "https://www.linkedin.com/company/"
   }
 }
